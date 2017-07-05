@@ -1,0 +1,6 @@
+server:
+  port: 8082
+mongodb:
+  host: 47.93.54.230
+  port: 8074
+  name: college
